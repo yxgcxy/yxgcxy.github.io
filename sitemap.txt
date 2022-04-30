@@ -1,2 +1,6 @@
+http://yxgcxy.github.io/friends/index.html
+http://yxgcxy.github.io/about/index.html
+http://yxgcxy.github.io/tags/index.html
+http://yxgcxy.github.io/categories/index.html
 http://yxgcxy.github.io/2022/04/30/hello-world/
 http://yxgcxy.github.io/
